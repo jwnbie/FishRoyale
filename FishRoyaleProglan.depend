@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1750451532 source:d:\fishroyaleproglan\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
